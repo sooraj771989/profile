@@ -459,8 +459,7 @@ footer {
   margin-bottom: 50px;
 }
 .project {
-  position: relative;
-  max-width: 900px;
+  
   margin: 0 auto 30px auto;
   overflow: hidden;
   background: #fff;
@@ -470,9 +469,9 @@ footer {
   float: left;
 }
 .project-info {
-  position: absolute;
+   
   text-align: initial;
-  margin-left: 300px;
+  
   padding: 15px;
 }
 .project-info h3 {
